@@ -7,13 +7,15 @@ public class Diff {
 
         System.out.println("diff-1 with secDiif-1");
 
-        System.out.println("new branch create");
+        System.out.println("new bsdfsdfsdranch create");
         System.out.println("stay same");
+        System.out.println("by byb ybsame");
         System.out.println("stay same");
+        System.out.println("staysdf same");
+        System.out.println("stay ssdfame");
         System.out.println("stay same");
-        System.out.println("stay same");
-        System.out.println("stay same");
-        System.out.println("stay same");
+        
+        System.out.println("staysdf same");
 
 
     }
