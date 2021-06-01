@@ -8,7 +8,8 @@ public class Diff {
         System.out.println("diff-1 with secDiif-1");
 
         System.out.println("new branch create");
-
+        System.out.println("stay same");
+        System.out.println("stay same");
 
 
     }
