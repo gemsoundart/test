@@ -10,6 +10,10 @@ public class Diff {
         System.out.println("new branch create");
         System.out.println("stay same");
         System.out.println("stay same");
+        System.out.println("stay same");
+        System.out.println("stay same");
+        System.out.println("stay same");
+        System.out.println("stay same");
 
 
     }
